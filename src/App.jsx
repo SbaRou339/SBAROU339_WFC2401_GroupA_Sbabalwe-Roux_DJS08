@@ -14,9 +14,9 @@ import HostVanInfo from "../pages/Host/HostVanInfo"
 import HostVanPricing from "../pages/Host/HostVanPricing"
 import HostVanPhotos from "../pages/Host/HostVanPhotos"
 import NotFound from "../pages/NotFound"
-import Layout from "./components/Layout"
+import Layout from "../components/Layout"
 import HostLayout from "../components/HostLayout"
-import AuthRequired from "./components/AuthRequired"
+import AuthRequired from "../components/AuthRequired"
 
 import "./server"
 
